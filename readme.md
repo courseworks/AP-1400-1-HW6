@@ -66,7 +66,7 @@ class Shape(object):
 
 output of ```print(any_shape)``` is must be like below:
 
-<img src="./stuff/s1.jpg">
+<img src="./stuff/s1.JPG">
 
 ## Shape summation
 Summation is just for squres and circles and this operation return shape with summation of squares side and circles radius.
