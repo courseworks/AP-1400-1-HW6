@@ -38,7 +38,7 @@ from shape import Rectangle,Circle,Square
     #     sqr = Square(5)**2
     #     print(sqr)
     #     self.assertEqual(625,sqr.area())
-    #     self.assertEqual(400,sqr.perimeter())
+    #     self.assertEqual(100,sqr.perimeter())
 
     # ## ----------------  Compare and Operations Test ----------------
     # def test_rectangle_basic(self):
